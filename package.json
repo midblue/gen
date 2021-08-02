@@ -1,0 +1,23 @@
+{
+  "name": "gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nuxt/types": "^2.15.7",
+    "@nuxt/typescript-build": "^2.1.0"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.7",
+    "sass": "^1.37.0",
+    "sass-loader": "^10"
+  }
+}
