@@ -1,5 +1,4 @@
 # gen
-🖌 Experiments with auto-generated "art"
 
 This exploration uses randomly generated repeating SVG elements and a randomized color scheme to make pattern-based "art".
 
