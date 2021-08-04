@@ -1,8 +1,8 @@
 {
-  "RectDef": {
-    "description": "Auto imported from components/RectDef.vue"
+  "TwoRectDef": {
+    "description": "Auto imported from components/Two/RectDef.vue"
   },
-  "Zone": {
-    "description": "Auto imported from components/Zone.vue"
+  "TwoZone": {
+    "description": "Auto imported from components/Two/Zone.vue"
   }
 }

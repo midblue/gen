@@ -6,5 +6,5 @@ You can directly use them in pages and other components without the need to impo
 
 **Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
 
-- `<RectDef>` | `<rect-def>` (components/RectDef.vue)
-- `<Zone>` | `<zone>` (components/Zone.vue)
+- `<TwoRectDef>` | `<two-rect-def>` (components/Two/RectDef.vue)
+- `<TwoZone>` | `<two-zone>` (components/Two/Zone.vue)

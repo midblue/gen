@@ -1,9 +1,30 @@
 [
   {
+    "name": "1",
+    "path": "/1",
+    "component": "/Users/jasperstephenson/Code/github/gen/pages/1.vue",
+    "chunkName": "pages/1",
+    "_name": "_4bdfe018"
+  },
+  {
+    "name": "2",
+    "path": "/2",
+    "component": "/Users/jasperstephenson/Code/github/gen/pages/2.vue",
+    "chunkName": "pages/2",
+    "_name": "_4bc3b116"
+  },
+  {
+    "name": "colorschemes",
+    "path": "/colorschemes",
+    "component": "/Users/jasperstephenson/Code/github/gen/pages/colorschemes.vue",
+    "chunkName": "pages/colorschemes",
+    "_name": "_c1fcad90"
+  },
+  {
     "name": "index",
     "path": "/",
-    "component": "/Users/jasperstephenson/Desktop/gen/pages/index.vue",
+    "component": "/Users/jasperstephenson/Code/github/gen/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_4f892e6c"
+    "_name": "_70719ad6"
   }
 ]
